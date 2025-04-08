@@ -61,6 +61,7 @@ public class RegistrationPage extends BaseClass{
 		Thread.sleep(2000);
 		Wait.sendKeys(jobTitle, job);
 		Wait.sendKeys(companyName, company);
+		System.out.println("TC 1 GitHub by Sonali");
 		
 		
 	}
