@@ -65,6 +65,7 @@ public class RegistrationPage extends BaseClass{
 		System.out.println("TC 2 GitHub by Nikhil");
 		System.out.println("TC 3 GitHub by Sonali");
 		System.out.println("TC 4 GitHub by Nikhil");
+		System.out.println("TC 5 GitHub by Sonali");
 		
 		
 	}
