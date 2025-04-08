@@ -63,6 +63,7 @@ public class RegistrationPage extends BaseClass{
 		Wait.sendKeys(companyName, company);
 		System.out.println("TC 1 GitHub by Sonali");
 		System.out.println("TC 2 GitHub by Nikhil");
+		System.out.println("TC 3 GitHub by Sonali");
 		
 		
 	}
